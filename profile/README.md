@@ -1,12 +1,21 @@
-## Hi there 👋
+# Welcome to ICpEP-MMCL 👋
 
-<!--
+We are the **ICpEP-MMCL** student chapter, part of the regional student organization **ICpEP.se R4A**.
 
-**Here are some ideas to get you started:**
+We bring students together to learn, build, and grow in tech.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What you get as a member
+
+- 🎓 **Exclusive events, seminars, and technical workshops**
+- 🏆 **Competitions and hackathons**
+- 🤝 **Professional networking opportunities**
+- 🚀 **Skill development and career readiness**
+
+## Find us
+
+- 📧 Email: icpepmmcl@gmail.com
+- 💬 Facebook: https://www.facebook.com/icpepmmcl
+
+---
+
+*Built by students, for students.*
